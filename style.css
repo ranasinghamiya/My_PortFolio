@@ -41,6 +41,7 @@ p {
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
 	text-align: center;
+	background-color: white;
 }
 .section-title span {
 	color: crimson;
