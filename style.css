@@ -269,7 +269,7 @@ p {
 /* Education Section */
 
 	#services .services {
-		background-color: rgb(46, 139, 87);
+		background-color: rgb(139, 46, 119);
 		flex-direction: column;
 		text-align: center;
 		max-width: 1500px;
@@ -305,6 +305,7 @@ p {
 	.education p{
 		font-weight: 1000;
 		text-align: left;
+		font-size: 20px;
 	}
 	p span{
 		padding-left: 10px;
